@@ -1,4 +1,4 @@
-# flutter_skyplight
+# flutter_skylight
 
 A new Flutter application.
 
